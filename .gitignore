@@ -1,0 +1,7 @@
+.vscode
+node_modules
+out
+__pycache__
+server.log
+.mypy_cache
+.pytest_cache
